@@ -1,0 +1,6 @@
+c:\users\mauriciojunior\Documents\Visual Studio 2015\Projects\ConvertValorExcelExadecimal\ConvertValorExcelExadecimal\bin\Debug\ConvertValorExcelExadecimal.exe.config
+c:\users\mauriciojunior\Documents\Visual Studio 2015\Projects\ConvertValorExcelExadecimal\ConvertValorExcelExadecimal\obj\Debug\ConvertValorExcelExadecimal.csprojResolveAssemblyReference.cache
+c:\users\mauriciojunior\Documents\Visual Studio 2015\Projects\ConvertValorExcelExadecimal\ConvertValorExcelExadecimal\bin\Debug\ConvertValorExcelExadecimal.exe
+c:\users\mauriciojunior\Documents\Visual Studio 2015\Projects\ConvertValorExcelExadecimal\ConvertValorExcelExadecimal\bin\Debug\ConvertValorExcelExadecimal.pdb
+c:\users\mauriciojunior\Documents\Visual Studio 2015\Projects\ConvertValorExcelExadecimal\ConvertValorExcelExadecimal\obj\Debug\ConvertValorExcelExadecimal.exe
+c:\users\mauriciojunior\Documents\Visual Studio 2015\Projects\ConvertValorExcelExadecimal\ConvertValorExcelExadecimal\obj\Debug\ConvertValorExcelExadecimal.pdb
